@@ -1,0 +1,62 @@
+category,question,delta_max_pp,top2_same,flag
+Occupation Usage Type,usage_type_Healthcare,15.25,1,CRITICAL
+Occupation Usage Type,usage_type_Services_and_Hospitality,5.61,1,CRITICAL
+Language Used,uses_Inglese,5.06,0,CRITICAL
+Technology Replacement (Complete),Q64_comp_replaced,3.0,1,PASS
+Non-Users,never_used,2.91,0,PASS
+Literacy & Desiderata,likert_2_1,2.89,1,PASS
+Replacement Reasons,Q67,2.78,1,PASS
+Occupation Usage Type,usage_type_Education,2.57,1,PASS
+Usage Intent Frequency,ContentCreation_freq,2.22,1,PASS
+Technology Usage,Q64_uses_tech,2.19,1,PASS
+Technology Replacement (Complete),Q65_comp_replaced,2.13,1,PASS
+Literacy & Desiderata,likert_2_2,2.01,1,PASS
+Usage Modalities,strategies,1.98,0,PASS
+Technology Replacement (Partial),Q62_parz_replaced,1.94,1,PASS
+Usage Modalities,access,1.87,1,PASS
+Non-Users,reason_never_used,1.72,1,PASS
+Usage Intent Frequency,ProblemSolving_freq,1.65,1,PASS
+Experience,personal_experience,1.58,1,PASS
+Usage Intent Frequency,InfoRetrieval_freq,1.54,0,PASS
+Usage Intent Frequency,Creativity_freq,1.54,1,PASS
+Literacy & Desiderata,likert_1_4,1.53,0,PASS
+Occupation Usage Type,usage_type_Research_and_Academia,1.52,1,PASS
+Socioeconomic,IncomeGroup,1.46,1,PASS
+Literacy & Desiderata,likert_1_1,1.43,1,PASS
+Technology Replacement (Partial),Q65_parz_replaced,1.33,1,PASS
+Technology Usage,Q65_uses_tech,1.22,1,PASS
+Non-Users,future_use,1.19,1,PASS
+Prior Education,education_technology,1.18,0,PASS
+Technology Replacement (Partial),Q63_parz_replaced,1.14,1,PASS
+Literacy & Desiderata,likert_1_5,1.09,1,PASS
+Occupation Usage Type,usage_type_Security_and_Public_Admin,0.96,1,PASS
+Technology Usage,Q61_uses_tech,0.87,1,PASS
+Usage Intent Frequency,Entertainment_freq,0.85,1,PASS
+Occupation Usage Type,usage_type_Culture_and_Entertainment,0.84,1,PASS
+Language Used,uses_Italiano,0.78,1,PASS
+Technology Replacement (Complete),Q62_comp_replaced,0.72,1,PASS
+Literacy & Desiderata,likert_2_3,0.68,0,PASS
+Technology Replacement (Complete),Q61_comp_replaced,0.65,1,PASS
+Technology Usage,Q63_uses_tech,0.64,1,PASS
+Technology Replacement (Complete),Q63_comp_replaced,0.62,1,PASS
+Literacy & Desiderata,likert_1_3,0.62,0,PASS
+Literacy & Desiderata,likert_1_6,0.57,1,PASS
+Usage Modalities,interaction_mode,0.54,1,PASS
+Language Used,uses_Altro,0.36,1,PASS
+Adoption,chatbot_user,0.35,1,PASS
+Technology Usage,Q66_uses_tech,0.35,1,PASS
+Technology Replacement (Complete),Q66_comp_replaced,0.26,1,PASS
+Technology Usage,Q62_uses_tech,0.24,1,PASS
+Occupation Usage Type,usage_type_Industry_and_Transport,0.19,1,PASS
+Demographics,EducationGroup,0.18,1,PASS
+Technology Replacement (Partial),Q61_parz_replaced,0.15,1,PASS
+Language Used,uses_Non_so,0.02,1,PASS
+Technology Replacement (Partial),Q66_parz_replaced,0.01,1,PASS
+Occupation Usage Type,usage_type_Student,4.7,1,REVIEW
+Technology Replacement (Partial),Q64_parz_replaced,4.51,1,REVIEW
+Occupation Usage Type,usage_type_Currently_Not_Working,3.99,0,REVIEW
+Occupation Usage Type,usage_type_Business_and_Consulting,3.93,1,REVIEW
+Occupation Usage Type,usage_type_Retired,3.68,1,REVIEW
+Occupation Usage Type,usage_type_Finance,3.33,1,REVIEW
+Occupation Usage Type,usage_type_IT_and_Media,3.08,1,REVIEW
+Usage Intent Frequency,Learning_freq,3.02,1,REVIEW
