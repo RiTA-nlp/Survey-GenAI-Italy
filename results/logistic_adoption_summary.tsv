@@ -1,0 +1,22 @@
+                      Logit Regression Results                      
+Dep. Variable:  	chatbot_user_binary	  No. Observations:  	  1823   
+Model:          	Logit              	  Df Residuals:      	  1810   
+Method:         	MLE                	  Df Model:          	    12   
+Date:           	Fri	 17 Oct 2025   	  Pseudo R-squ.:     	0.2222   
+Time:           	14:29:30           	  Log-Likelihood:    	 -695.77 
+converged:      	True               	  LL-Null:           	 -894.49 
+Covariance Type:	nonrobust          	  LLR p-value:       	1.322e-77
+                                      	   coef   	 std err 	    z    	P>|z| 	  [0.025 	  0.975] 
+Intercept                             	    0.3769	    0.458	    0.823	 0.411	   -0.521	    1.275
+C(GenderGroup)[T.Woman]               	   -0.6951	    0.142	   -4.891	 0.000	   -0.974	   -0.417
+C(AgeGroup)[T.35-54]                  	   -0.8339	    0.223	   -3.734	 0.000	   -1.272	   -0.396
+C(AgeGroup)[T.55-64]                  	   -1.0041	    0.229	   -4.384	 0.000	   -1.453	   -0.555
+C(AgeGroup)[T.65+]                    	   -1.6530	    0.225	   -7.357	 0.000	   -2.093	   -1.213
+C(GeographyGroup)[T.Centre]           	    0.2855	    0.377	    0.757	 0.449	   -0.454	    1.025
+C(GeographyGroup)[T.North]            	    0.1870	    0.349	    0.537	 0.592	   -0.496	    0.870
+C(GeographyGroup)[T.South and Islands]	   -0.0070	    0.370	   -0.019	 0.985	   -0.732	    0.717
+C(IncomeGroup)[T.Lower]               	   -0.5455	    0.218	   -2.502	 0.012	   -0.973	   -0.118
+C(IncomeGroup)[T.Mid]                 	   -0.2690	    0.172	   -1.564	 0.118	   -0.606	    0.068
+C(EducationGroup)[T.Non-graduates]    	   -0.4113	    0.148	   -2.782	 0.005	   -0.701	   -0.122
+LT_exp                                	    0.5514	    0.076	    7.240	 0.000	    0.402	    0.701
+lt_lit                                	    3.0333	    0.336	    9.022	 0.000	    2.374	    3.692

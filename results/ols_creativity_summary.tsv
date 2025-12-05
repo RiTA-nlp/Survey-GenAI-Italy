@@ -1,0 +1,31 @@
+                      OLS Regression Results                     
+Dep. Variable:   	Creativity_freq 	  R-squared:         	   0.059
+Model:           	OLS             	  Adj. R-squared:    	   0.051
+Method:          	Least Squares   	  F-statistic:       	   7.111
+Date:            	Fri	 17 Oct 2025	  Prob (F-statistic):	1.07e-12
+Time:            	14:29:30        	  Log-Likelihood:    	 -2005.4
+No. Observations:	  1378          	  AIC:               	   4037.
+Df Residuals:    	  1365          	  BIC:               	   4105.
+Df Model:        	    12          	                     	        
+Covariance Type: 	nonrobust       	                     	        
+                                      	   coef   	 std err 	    t    	P>|t| 	  [0.025 	  0.975] 
+Intercept                             	    1.0712	    0.168	    6.358	 0.000	    0.741	    1.402
+C(GenderGroup)[T.Woman]               	   -0.1432	    0.058	   -2.474	 0.013	   -0.257	   -0.030
+C(AgeGroup)[T.35-54]                  	   -0.0493	    0.070	   -0.702	 0.483	   -0.187	    0.088
+C(AgeGroup)[T.55-64]                  	   -0.1973	    0.082	   -2.411	 0.016	   -0.358	   -0.037
+C(AgeGroup)[T.65+]                    	   -0.2603	    0.094	   -2.768	 0.006	   -0.445	   -0.076
+C(GeographyGroup)[T.Centre]           	    0.0891	    0.133	    0.670	 0.503	   -0.172	    0.350
+C(GeographyGroup)[T.North]            	   -0.0240	    0.119	   -0.201	 0.841	   -0.258	    0.210
+C(GeographyGroup)[T.South and Islands]	   -0.0377	    0.132	   -0.285	 0.776	   -0.298	    0.222
+C(IncomeGroup)[T.Lower]               	   -0.1961	    0.087	   -2.246	 0.025	   -0.367	   -0.025
+C(IncomeGroup)[T.Mid]                 	   -0.1810	    0.066	   -2.723	 0.007	   -0.311	   -0.051
+C(EducationGroup)[T.Non-graduates]    	    0.0811	    0.066	    1.237	 0.216	   -0.047	    0.210
+LT_exp                                	    0.1432	    0.028	    5.191	 0.000	    0.089	    0.197
+lt_lit                                	    0.4163	    0.140	    2.971	 0.003	    0.141	    0.691
+Omnibus:      	392.160	  Durbin-Watson:     	   2.008
+Prob(Omnibus):	 0.000 	  Jarque-Bera (JB):  	  70.353
+Skew:         	 0.181 	  Prob(JB):          	5.28e-16
+Kurtosis:     	 1.954 	  Cond. No.          	    27.0
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

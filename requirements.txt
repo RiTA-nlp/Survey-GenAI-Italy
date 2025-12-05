@@ -1,0 +1,8 @@
+sentence-transformers
+scipy
+seaborn
+tyro
+umap-learn
+scikit-learn
+ipywidgets
+accelerate

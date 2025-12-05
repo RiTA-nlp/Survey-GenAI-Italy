@@ -1,0 +1,20 @@
+Variable	Category	Overall_N	Overall_%	Users_N	Users_%	NonUsers_N	NonUsers_%
+EducationGroup	Graduates	1322	69.36	1120	73.06	202	54.16
+EducationGroup	Non-graduates	584	30.64	413	26.94	171	45.84
+GeographyGroup	Abroad	104	5.46	92	6.0	12	3.22
+GeographyGroup	Centre	311	16.32	253	16.5	58	15.55
+GeographyGroup	North	1154	60.55	917	59.82	237	63.54
+GeographyGroup	South and Islands	337	17.68	271	17.68	66	17.69
+GenderGroup	Man	936	49.11	810	52.84	126	33.78
+GenderGroup	Neither	33	1.73	23	1.5	10	2.68
+GenderGroup	Woman	937	49.16	700	45.66	237	63.54
+IncomeGroup	Higher	508	26.65	437	28.51	71	19.03
+IncomeGroup	Lower	344	18.05	270	17.61	74	19.84
+IncomeGroup	Mid	1002	52.57	787	51.34	215	57.64
+AgeGroup	18-34	535	28.07	491	32.03	44	11.8
+AgeGroup	35-54	583	30.59	498	32.49	85	22.79
+AgeGroup	55-64	396	20.78	304	19.83	92	24.66
+AgeGroup	65+	392	20.57	240	15.66	152	40.75
+Education_STEM	Graduates Other	754	39.56	618	40.31	136	36.46
+Education_STEM	Graduates STEM	568	29.8	502	32.75	66	17.69
+Education_STEM	Non-graduates	584	30.64	413	26.94	171	45.84
