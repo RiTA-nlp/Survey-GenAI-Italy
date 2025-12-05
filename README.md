@@ -39,7 +39,7 @@ This repository contains the survey data, analysis code, and results associated 
 1. **Clone the repository**
 	```bash
 	git clone <repository-url>
-	cd rita_survey
+	cd Survey-GenAI-Italy
 	```
 2. **Create and activate a virtual environment** (recommended)
 
